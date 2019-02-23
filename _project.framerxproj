@@ -1,0 +1,89 @@
+{
+  "files" : {
+    ".backups/2019-02-23 22.39.13.zip" : {
+      "sha1" : "5WZHV3ErMeH0kGYn9xiKDmYJPp8=",
+      "size" : 1886
+    },
+    ".gitignore" : {
+      "sha1" : "MmXoWzc8CV/JCl41uc0Ak4ivseM=",
+      "size" : 139
+    },
+    ".yarnignore" : {
+      "sha1" : "4SLhRnyg+tD/+ndNXdsmdpsl0qY=",
+      "size" : 66
+    },
+    "build/Draft.css" : {
+      "sha1" : "EAhzGU2fx321Jor9Yku/eL05a9w=",
+      "size" : 4279
+    },
+    "build/index.js" : {
+      "sha1" : "h03QCnereXpoLgh/DfKtFwodwSg=",
+      "size" : 16541
+    },
+    "build/react-dom.development.js" : {
+      "sha1" : "nQs4dfjb25VVDNzTtFfYbuF1KQY=",
+      "size" : 641575
+    },
+    "build/react.development.js" : {
+      "sha1" : "2q2WObxZivmxSruU7BgBgScrCw0=",
+      "size" : 59086
+    },
+    "build/standalone.js" : {
+      "sha1" : "u/SdhIlWrJGVpB46QqnDODUw/p0=",
+      "size" : 72337
+    },
+    "build/style.css" : {
+      "sha1" : "RJmszaPYXj2PnF6BxLHsPxRgrS4=",
+      "size" : 5171
+    },
+    "code/canvas.tsx" : {
+      "sha1" : "XAWJ2Vc6zFl/c1ILjaRwb7ijf8Q=",
+      "size" : 179
+    },
+    "code/Examples.tsx" : {
+      "sha1" : "YXi4yE0/Y1qRB+xcRBVtJj1VRdY=",
+      "size" : 1223
+    },
+    "design/document.json" : {
+      "sha1" : "4/3iZ/HrwtuBQ2xFrKhIKuwsWac=",
+      "size" : 4365
+    },
+    "images/cursors/touch-active.png" : {
+      "sha1" : "fYes+h/mpvrQ2z1kPVs0zEFuq5M=",
+      "size" : 2965
+    },
+    "images/cursors/touch-active@2x.png" : {
+      "sha1" : "IrXS4p49TPUF4VVjiAv5LzffmHE=",
+      "size" : 7792
+    },
+    "images/cursors/touch.png" : {
+      "sha1" : "ZR96UUIDd4QXZOPSsRSgZvDjWb4=",
+      "size" : 2912
+    },
+    "images/cursors/touch@2x.png" : {
+      "sha1" : "RiwOB1M8Lzb2/NU+mdjR1VBhicM=",
+      "size" : 8384
+    },
+    "index.html" : {
+      "sha1" : "mePuvahJ568Ya1Eh6ie+9C5Kprk=",
+      "size" : 20623
+    },
+    "package.json" : {
+      "sha1" : "PLXF196iJoKNW1FFVVygcw2brAg=",
+      "size" : 284
+    },
+    "README.md" : {
+      "sha1" : "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+      "size" : 0
+    },
+    "tsconfig.json" : {
+      "sha1" : "SdmzWRfeZvULVchW1E8DFxKSyZ8=",
+      "size" : 344
+    },
+    "yarn.lock" : {
+      "sha1" : "Zf+64UieDVQGJar+BRskaUmuw3I=",
+      "size" : 950
+    }
+  },
+  "uuid" : "46CB84D8-8134-4450-BAAC-2A60F95AA0DB"
+}

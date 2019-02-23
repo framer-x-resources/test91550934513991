@@ -1,0 +1,16 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16"
+	},
+	"peerDependencies": {
+		"framer": "^0.10",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "56a67a97-2c8d-4adc-b958-e88241ae77a6"
+	},
+	"author": ". ruucm"
+}
